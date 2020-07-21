@@ -3,7 +3,7 @@ import XCTest
 #if !canImport(ObjectiveC)
 public func allTests() -> [XCTestCaseEntry] {
     return [
-        testCase(SwiftUI_ImageScrollViewTests.allTests),
+        testCase(SwiftUIImageScrollViewTests.allTests),
     ]
 }
 #endif

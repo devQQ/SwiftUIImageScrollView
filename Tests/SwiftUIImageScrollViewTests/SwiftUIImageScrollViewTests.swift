@@ -1,5 +1,5 @@
 import XCTest
-@testable import SwiftUI_ImageScrollView
+@testable import SwiftUIImageScrollView
 
 final class SwiftUI_ImageScrollViewTests: XCTestCase {
 }
